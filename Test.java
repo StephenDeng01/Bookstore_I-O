@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Scanner;  // 导包，类似于py
 
 /*
-【java实战项目--书城--集合版】项目功能：
+【java实战项目--书城--I/O流版】项目功能：
 1、展示书籍
 2、上新书籍
 3、下架书籍
